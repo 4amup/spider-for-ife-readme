@@ -1,0 +1,30 @@
+{
+  "name": "spider-for-ife-readme",
+  "version": "1.0.0",
+  "description": "* [使用 superagent 与 cheerio 完成简单爬虫](http://wiki.jikexueyuan.com/project/node-lessons/superagent-cheerio.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wozhizui/spider-for-ife-readme.git"
+  },
+  "keywords": [
+    "marked",
+    "superagent",
+    "cheerio"
+  ],
+  "author": "lixiaochun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wozhizui/spider-for-ife-readme/issues"
+  },
+  "homepage": "https://github.com/wozhizui/spider-for-ife-readme#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "h2m": "^0.6.0",
+    "marked": "^0.3.16",
+    "superagent": "^3.8.2"
+  }
+}
